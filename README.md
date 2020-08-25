@@ -1,5 +1,5 @@
 # Responsive-Design
-
+cddwcdce
 In this module challenge you will continue working on your portfolio website to make it compatible for different browser widths.
 
 ## User Interface and Git
@@ -13,7 +13,7 @@ In this module challenge you will continue working on your portfolio website to 
 - describe how using scalable units for font sizes impacts accessibility and why designing accessible web pages is important
 
 ## Introduction
-
+dceffece
 It goes without saying that this skill is essential for a professional Web Developer. Imagine trying to visit a store's webpage on your phone and not being able to even read the names of items? That would be totally unacceptable in this day and age! Same goes for a web developer's portfolio site.
 
 In this challenge you will refactor your personal portfolio code to make it responsive. You have the ability to write HTML, CSS, and responsive media queries. You also know how to identify and write responsive units. It's time to put that knowledge into action!
